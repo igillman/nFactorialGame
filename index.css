@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+canvas{
+    background: linear-gradient(to right,rgb(140, 140, 140), rgb(111, 92, 114));
+}
+button{
+    height: 20px;
+    background-color: darkblue;
+    border: 1px solid darkblue;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
